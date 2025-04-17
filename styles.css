@@ -75,7 +75,7 @@ h1 {
     hyphens: auto;
     overflow-wrap: break-word;
     backface-visibility: hidden;
-    background: linear-gradient(135deg, #b3d285, #70b848);
+    background: linear-gradient(135deg, #ff9999, #ffcccc);
     /* Roter Farbverlauf =  135deg, #ff9999, #ffcccc */
     /* Grüner Farbverlauf =  135deg, #b3d285, #70b848 */
     /* Violetter Farbverlauf =  135deg, #f3e5f5, #e1bee7 */
